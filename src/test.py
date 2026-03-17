@@ -1,6 +1,6 @@
 import sys
 import logging
-import logger
+import src.logger
 from exception import CustomException
 
 
