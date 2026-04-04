@@ -4,4 +4,8 @@ matplotlib
 scikit-learn
 seaborn
 string-cleaner-vijval
+jupyter
+jupyter-core
+ipykernel
+pyzmq
 -e .
